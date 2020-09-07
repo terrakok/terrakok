@@ -6,7 +6,7 @@ val terrakok = developer {
     about {
         name = "Kostya Tskhovrebov"
         company = JetBrains
-        role = KMM_Team_Lead
+        role = KMM_team_lead
     }
     tech("Kotlin", "Android", "KMM")
     links {
