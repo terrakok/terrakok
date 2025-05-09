@@ -43,4 +43,10 @@
 
 <p align="left">My name is Konstantin Tskhovrebov, I am a developer at JetBrains, where I work on Compose Multiplatform - a cross-platform UI framework that allows you to create interfaces for Android, iOS, desktop and web on Kotlin. I am a big fan of open-source and actively participate in the development of open-source projects such as Kotlin and Compose Multiplatform.</p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/terrakok">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=terrakok&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="50">
+  </a>
+</p>
+
 ###
